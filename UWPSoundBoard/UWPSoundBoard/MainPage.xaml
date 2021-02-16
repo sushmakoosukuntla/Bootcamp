@@ -22,8 +22,8 @@
         </RelativePanel>
         <SplitView Grid.Row="1" Name="MySplitView"
                    DisplayMode="CompactOverlay"
-                   CompactPaneLength="45"
-                   OpenPaneLength="200">
+                   CompactPaneLength="40"
+                   OpenPaneLength="170">
             <SplitView.Pane>
                 <ListView Name="MenuItemsListView" 
                           IsItemClickEnabled="True"
