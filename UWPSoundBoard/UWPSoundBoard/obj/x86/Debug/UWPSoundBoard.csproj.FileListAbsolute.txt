@@ -42,3 +42,4 @@ C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\ob
 C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885598160000000.json
+C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\obj\x86\Debug\UWPSoundBoard.csprojAssemblyReference.cache

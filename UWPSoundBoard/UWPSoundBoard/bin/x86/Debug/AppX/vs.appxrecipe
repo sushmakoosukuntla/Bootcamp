@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-02-16T20:11:08.103</Modified>
+      <Modified>2021-02-17T17:17:38.692</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\bin\x86\Debug\UWPSoundBoard.exe">
       <PackagePath>entrypoint\UWPSoundBoard.exe</PackagePath>
-      <Modified>2021-02-16T20:11:06.445</Modified>
+      <Modified>2021-02-17T17:17:37.102</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -48,177 +48,177 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Audio\Animals\Cat.wav">
       <PackagePath>Assets\Audio\Animals\Cat.wav</PackagePath>
-      <Modified>2021-02-14T07:48:25.295</Modified>
+      <Modified>2021-02-16T21:18:09.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Audio\Animals\Cow.wav">
       <PackagePath>Assets\Audio\Animals\Cow.wav</PackagePath>
-      <Modified>2021-02-14T07:48:25.301</Modified>
+      <Modified>2021-02-16T21:18:09.045</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Audio\Cartoons\Gun.wav">
       <PackagePath>Assets\Audio\Cartoons\Gun.wav</PackagePath>
-      <Modified>2021-02-14T07:48:25.310</Modified>
+      <Modified>2021-02-16T21:18:09.051</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Audio\Cartoons\Spring.wav">
       <PackagePath>Assets\Audio\Cartoons\Spring.wav</PackagePath>
-      <Modified>2021-02-14T07:48:25.315</Modified>
+      <Modified>2021-02-16T21:18:09.056</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Audio\Taunts\Clock.wav">
       <PackagePath>Assets\Audio\Taunts\Clock.wav</PackagePath>
-      <Modified>2021-02-14T07:48:25.324</Modified>
+      <Modified>2021-02-16T21:18:09.068</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Audio\Taunts\LOL.wav">
       <PackagePath>Assets\Audio\Taunts\LOL.wav</PackagePath>
-      <Modified>2021-02-14T07:48:25.331</Modified>
+      <Modified>2021-02-16T21:18:09.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Audio\Warnings\Ship.wav">
       <PackagePath>Assets\Audio\Warnings\Ship.wav</PackagePath>
-      <Modified>2021-02-14T07:48:25.338</Modified>
+      <Modified>2021-02-16T21:18:09.083</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Audio\Warnings\Siren.wav">
       <PackagePath>Assets\Audio\Warnings\Siren.wav</PackagePath>
-      <Modified>2021-02-14T07:48:25.345</Modified>
+      <Modified>2021-02-16T21:18:09.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Icons\animals.png">
       <PackagePath>Assets\Icons\animals.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.350</Modified>
+      <Modified>2021-02-16T21:18:09.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Icons\cartoon.png">
       <PackagePath>Assets\Icons\cartoon.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.355</Modified>
+      <Modified>2021-02-16T21:18:09.096</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Icons\taunt.png">
       <PackagePath>Assets\Icons\taunt.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.360</Modified>
+      <Modified>2021-02-16T21:18:09.097</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Icons\warning.png">
       <PackagePath>Assets\Icons\warning.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.365</Modified>
+      <Modified>2021-02-16T21:18:09.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Images\Animals\Cat.png">
       <PackagePath>Assets\Images\Animals\Cat.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.146</Modified>
+      <Modified>2021-02-16T21:18:09.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Images\Animals\Cow.png">
       <PackagePath>Assets\Images\Animals\Cow.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.161</Modified>
+      <Modified>2021-02-16T21:18:09.103</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Images\Cartoons\Gun.png">
       <PackagePath>Assets\Images\Cartoons\Gun.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.172</Modified>
+      <Modified>2021-02-16T21:18:09.104</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Images\Cartoons\Spring.png">
       <PackagePath>Assets\Images\Cartoons\Spring.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.181</Modified>
+      <Modified>2021-02-16T21:18:09.105</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Images\Taunts\Clock.png">
       <PackagePath>Assets\Images\Taunts\Clock.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.188</Modified>
+      <Modified>2021-02-16T21:18:09.107</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Images\Taunts\LOL.png">
       <PackagePath>Assets\Images\Taunts\LOL.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.196</Modified>
+      <Modified>2021-02-16T21:18:09.109</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Images\Warnings\Ship.png">
       <PackagePath>Assets\Images\Warnings\Ship.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.208</Modified>
+      <Modified>2021-02-16T21:18:09.111</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\Images\Warnings\Siren.png">
       <PackagePath>Assets\Images\Warnings\Siren.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.220</Modified>
+      <Modified>2021-02-16T21:18:09.112</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\PackageAppXManifest\1240x1240.scale-400.png">
       <PackagePath>Assets\PackageAppXManifest\1240x1240.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-02-14T07:48:25.225</Modified>
+      <Modified>2021-02-16T21:18:09.115</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\PackageAppXManifest\1240x600.png">
       <PackagePath>Assets\PackageAppXManifest\1240x600.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.232</Modified>
+      <Modified>2021-02-16T21:18:09.116</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\PackageAppXManifest\24x24-large.png">
       <PackagePath>Assets\PackageAppXManifest\24x24-large.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.237</Modified>
+      <Modified>2021-02-16T21:18:09.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\PackageAppXManifest\24x24.png">
       <PackagePath>Assets\PackageAppXManifest\24x24.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.242</Modified>
+      <Modified>2021-02-16T21:18:09.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\PackageAppXManifest\300x300.png">
       <PackagePath>Assets\PackageAppXManifest\300x300.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.248</Modified>
+      <Modified>2021-02-16T21:18:09.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\PackageAppXManifest\310x310.png">
       <PackagePath>Assets\PackageAppXManifest\310x310.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.253</Modified>
+      <Modified>2021-02-16T21:18:09.122</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\PackageAppXManifest\50x50-large.png">
       <PackagePath>Assets\PackageAppXManifest\50x50-large.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.261</Modified>
+      <Modified>2021-02-16T21:18:09.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\PackageAppXManifest\50x50.png">
       <PackagePath>Assets\PackageAppXManifest\50x50.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.266</Modified>
+      <Modified>2021-02-16T21:18:09.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\PackageAppXManifest\620x300.png">
       <PackagePath>Assets\PackageAppXManifest\620x300.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.270</Modified>
+      <Modified>2021-02-16T21:18:09.125</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\PackageAppXManifest\71x71-large.png">
       <PackagePath>Assets\PackageAppXManifest\71x71-large.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.275</Modified>
+      <Modified>2021-02-16T21:18:09.126</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\PackageAppXManifest\71x71.png">
       <PackagePath>Assets\PackageAppXManifest\71x71.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.279</Modified>
+      <Modified>2021-02-16T21:18:09.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\PackageAppXManifest\88x88-large.png">
       <PackagePath>Assets\PackageAppXManifest\88x88-large.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.284</Modified>
+      <Modified>2021-02-16T21:18:09.128</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\PackageAppXManifest\88x88.png">
       <PackagePath>Assets\PackageAppXManifest\88x88.png</PackagePath>
-      <Modified>2021-02-14T07:48:25.289</Modified>
+      <Modified>2021-02-16T21:18:09.129</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-02-15T02:58:45.033</Modified>
+      <Modified>2021-02-16T21:18:09.130</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-02-15T02:58:45.083</Modified>
+      <Modified>2021-02-16T21:18:09.132</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-02-15T02:58:45.135</Modified>
+      <Modified>2021-02-16T21:18:09.133</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-02-15T02:58:45.214</Modified>
+      <Modified>2021-02-16T21:18:09.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-02-15T02:58:45.468</Modified>
+      <Modified>2021-02-16T21:18:09.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2021-02-08T20:44:58.391</Modified>
+      <Modified>2021-02-16T21:18:09.153</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\bin\x86\Debug\UWPSoundBoard.xr.xml">
       <PackagePath>UWPSoundBoard.xr.xml</PackagePath>
-      <Modified>2021-02-15T19:16:23.622</Modified>
+      <Modified>2021-02-16T21:18:09.417</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-02-16T20:11:06.296</Modified>
+      <Modified>2021-02-17T17:17:36.901</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-02-16T20:11:06.296</Modified>
+      <Modified>2021-02-17T17:17:36.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -226,11 +226,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-02-16T20:11:06.916</Modified>
+      <Modified>2021-02-17T17:17:37.729</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sushm\OneDrive\Documents\GitHub\Bootcamp\UWPSoundBoard\UWPSoundBoard\bin\x86\Debug\Core\UWPSoundBoard.exe">
       <PackagePath>UWPSoundBoard.exe</PackagePath>
-      <Modified>2021-02-16T20:11:08.060</Modified>
+      <Modified>2021-02-17T17:17:38.636</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
