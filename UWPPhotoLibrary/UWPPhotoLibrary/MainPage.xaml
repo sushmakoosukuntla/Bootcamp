@@ -7,8 +7,17 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
-    <Grid>+
+<Grid>
+    <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <RelativePanel>
+            <Button Content="&#xE700;" RelativePanel.AlignLeftWithPanel="True"
+                    FontFamily="Segoe MDL2 Assets" Width="45" Name="HamburgerButton" Click="HamburgerButton_Click" />
+            <Button Content="&#xE0A6;" RelativePanel.RightOf="HamburgerButton"
+                    FontFamily="Segoe MDL2 Assets" Width="45" Name="BackButton" Click="BackButton_Click" />
+        </RelativePanel>
 
     </Grid>
 </Page>
